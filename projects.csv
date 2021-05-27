@@ -1,0 +1,7 @@
+Customer Name ,Project Name ,Project Address ,Project City ,Project State ,Project Zip ,Project Start Date ,Project Outstanding Debt ,Project Commencement Date 
+Cust1,Proj1,Address,city,TX,11865,2021-01-01,1253.36,2021-01-15
+Cust2,Proj2,Address,city,LA,11865,2021-02-02,1253.36,
+Cust3,Proj3,Address,city,CA,11865,2021-03-04,1253.36,2021-03-04
+Cust4,Proj4,Address,city,NY,11865,2021-09-11,1253.36,2021-10-01
+row,missing,required,attribute,,2021-05-26,1253.36,2021-08-30
+Corrupted,row,missing,required,attribute,,2021-05-26,1253.36,2021-08-30
